@@ -1,3 +1,3 @@
 # CV-Freelancer
 Адаптивная верстка резюме, состоящая из HTML + CSS + JavaScript.
-<p>Подключены анимации к <div> через сайт https://cdnjs.com/ </p>
+<p>Подключены анимации через сайт https://cdnjs.com/ </p>
